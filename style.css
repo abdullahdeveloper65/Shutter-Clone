@@ -1,0 +1,14 @@
+.faceb:hover{
+    cursor: pointer;
+}
+/* body{
+    overflow-x: hidden;
+} */
+@media only screen and (max-width:455px){
+    .imds{
+        flex-direction: column;
+    }
+    img{
+        width: 700px;
+    }
+}
